@@ -44,7 +44,7 @@ Before using Discord bot Methonim, please familiarize yourself with the followin
 ### 7.1. The Developer is not liable for any direct, indirect, incidental, special, or consequential damages, including but not limited to loss of data, profits, or other intangible losses, arising from the use or inability to use the bot.
 
 ## 8. Contact
-### 8.1. For any questions or issues, users can contact the Developer through the bot's support server. Support is available at [insert support server link].
+### 8.1. For any questions or issues, users can contact the Developer through the bot's support server.
 
 ## 9. Changes to Terms of Use
 ### 9.1. The Developer reserves the right to change these Terms at any time without prior notice to users.

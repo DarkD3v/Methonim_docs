@@ -1,6 +1,6 @@
 # **Terms of use for Discord bot Methonim**
 
-**_Effective Date: 13.07.2024_**
+Effective Date: 13.07.2024
 
 ## Introduction
 
@@ -181,3 +181,7 @@ Before using Discord bot Methonim, please familiarize yourself with the followin
 ### 22.1. The Developer is not liable for delays or failure to fulfill its obligations due to events beyond its reasonable control, including but not limited to natural disasters, wars, terrorist acts, government actions, emergencies, and technical failures.
 
 ### 22.2. In the event of force majeure, the Developer commits to taking all reasonable measures to minimize the consequences.
+
+## 23. Human traits:
+
+### 23.1 The bot may occasionally exhibit human traits, such as moodiness or reluctance to work on Mondays. Please be patient and understanding of its "moods".
